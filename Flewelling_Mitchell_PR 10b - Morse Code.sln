@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flewelling_Mitchell_PR 10b - Morse Code", "Flewelling_Mitchell_PR 10b - Morse Code.csproj", "{CE0BD3C0-9D67-400F-8373-14276D3EC64F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE0BD3C0-9D67-400F-8373-14276D3EC64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0BD3C0-9D67-400F-8373-14276D3EC64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0BD3C0-9D67-400F-8373-14276D3EC64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0BD3C0-9D67-400F-8373-14276D3EC64F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F21E3B0C-5E2D-4575-9A08-00E684ED73C4}
+	EndGlobalSection
+EndGlobal
